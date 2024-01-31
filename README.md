@@ -1,3 +1,7 @@
-# castle-of-knowledge
+# castle of knowledge
 
-game like app by white hats 
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
