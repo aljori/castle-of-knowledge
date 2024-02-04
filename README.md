@@ -1,3 +1,3 @@
 # castle-of-knowledge
 
-game like app by white hats 
+game like app created by white hats 
